@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HybridSharedLibraryCoreView": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true
+    }
+  }
+}
